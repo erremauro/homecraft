@@ -1,4 +1,5 @@
 node_modules/
+awesomesauce/
 .env
 #eula.txt
 #world/*
