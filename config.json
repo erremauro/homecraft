@@ -1,0 +1,20 @@
+{
+    "minecraft": {
+        "version": "1.8.9",
+        "minMemory": "1G",
+        "maxMemory": "1G",
+        "levelName": "world", 
+        "backupDir": "./backup"
+    },
+    "cache": {
+        "active": true,
+        "minSize": "256M",
+        "maxSize": "3G",
+        "quota": {
+            "percentage": 80,
+            "alert": true,
+            "auto": true
+        },
+        "syncEvery": "5m"
+    }
+}
