@@ -12,6 +12,10 @@
     "server"
   ],
   "author": "Roberto Mauro <erremauro@icloud.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erremauro/homecraft.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.1",
