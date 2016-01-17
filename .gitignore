@@ -1,5 +1,4 @@
 node_modules/
-awesomesauce/
 .env
 #eula.txt
 #world/*
@@ -9,6 +8,6 @@ logs
 #banned-ips.json
 #banned-players.json
 #ops.json
-#server.properties
-#usercache.json
+server.properties
+usercache.json
 #whitelist.json
