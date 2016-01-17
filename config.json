@@ -3,7 +3,7 @@
         "version": "1.8.9",
         "minMemory": "1G",
         "maxMemory": "1G",
-        "levelName": "world", 
+        "levelName": "awesomesauce", 
         "backupDir": "./backup"
     },
     "cache": {
