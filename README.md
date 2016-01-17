@@ -23,7 +23,7 @@ HomeCraft caches your world data in RAM keeping your SSD safe and your game fast
 
 All standard minecraft server command are supported. Additionally you can also use these commands to control HomeCraft.
 
-**save**: You can persist your data locally at anytime by writing `save` 
+- **save**: You can persist your data locally at anytime by writing `save` 
 in the console while server is running.
-**stop**: To stop your server simply write `stop` in your console while server is running.
-**restart**: You can restart your server by write `restart` or `rs` in your console while server is running.
+- **stop**: To stop your server simply write `stop` in your console while server is running.
+- **restart**: You can restart your server by write `restart` or `rs` in your console while server is running.
