@@ -1,6 +1,6 @@
 {
   "name": "homecraft",
-  "version": "0.4",
+  "version": "0.4.0",
   "description": "A MineCraft Server runner focused on performances.",
   "main": "server.js",
   "scripts": {
