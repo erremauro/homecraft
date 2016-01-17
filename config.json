@@ -10,11 +10,11 @@
         "active": true,
         "minSize": "256M",
         "maxSize": "3G",
+        "syncEvery": "5m",
         "quota": {
             "percentage": 80,
             "alert": true,
             "auto": true
-        },
-        "syncEvery": "5m"
+        }
     }
 }
